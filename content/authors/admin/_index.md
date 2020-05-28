@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Will wiz Serena
 
 # Username (this should match the folder name)
 authors:
@@ -10,22 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: To love love yeah
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: To love yeah
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: We always go into it blindly.
 
 interests:
-- Artificial Intelligence
+- Handed goods
 - Computational Linguistics
 - Information Retrieval
 
-education:
+Experiences:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
@@ -70,6 +70,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A couple from China 🇨🇳 
+We love, we travel, we photo. 
+Hope you leave inspired.
+Love is our best journey ever.💓
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
